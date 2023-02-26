@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{C31A3EA3-B8FC-4C3A-9119-21E6B3610F0D}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="jokeApp/Data/ApplicationDbContext.cs">
+    <Files>
+      <File FileName="jokeApp/Views/Home/Index.cshtml" Line="7" Column="22" />
+      <File FileName="jokeApp/Views/Home/Privacy.cshtml" Line="8" Column="1" />
+      <File FileName="jokeApp/Controllers/HomeController.cs" Line="11" Column="49" />
+      <File FileName="jokeApp/Models/ErrorViewModel.cs" Line="10" Column="1" />
+      <File FileName="jokeApp/Models/Joke.cs" Line="14" Column="1" />
+      <File FileName="jokeApp/Data/ApplicationDbContext.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="jokeApp" expanded="True">
+            <Node name="jokeApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="ApplicationDbContext.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="jokeApp" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.jokeApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
