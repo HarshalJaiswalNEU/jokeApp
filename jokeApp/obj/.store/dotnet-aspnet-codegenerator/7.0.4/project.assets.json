@@ -475,16 +475,16 @@
     ]
   },
   "packageFolders": {
-    "/Users/harshaljaiswal/Projects/jokeApp/jokeApp/obj/.store/.stage/rsjwnctg.lhb": {}
+    "/Users/harshaljaiswal/Projects/jokeApp/jokeApp/obj/.store/.stage/cnqsdkhh.ztp": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/var/folders/4r/n6dgdbzj1t3f6vphxk7vznpr0000gn/T/e0e7289c-2b9a-421b-8c23-aec69e2dbef4/restore.csproj",
+      "projectUniqueName": "/var/folders/4r/n6dgdbzj1t3f6vphxk7vznpr0000gn/T/61a8dcae-34bd-42c5-b19b-94f1760d871a/restore.csproj",
       "projectName": "restore",
-      "projectPath": "/var/folders/4r/n6dgdbzj1t3f6vphxk7vznpr0000gn/T/e0e7289c-2b9a-421b-8c23-aec69e2dbef4/restore.csproj",
-      "packagesPath": "/Users/harshaljaiswal/Projects/jokeApp/jokeApp/obj/.store/.stage/rsjwnctg.lhb",
-      "outputPath": "/Users/harshaljaiswal/Projects/jokeApp/jokeApp/obj/.store/.stage/rsjwnctg.lhb/",
+      "projectPath": "/var/folders/4r/n6dgdbzj1t3f6vphxk7vznpr0000gn/T/61a8dcae-34bd-42c5-b19b-94f1760d871a/restore.csproj",
+      "packagesPath": "/Users/harshaljaiswal/Projects/jokeApp/jokeApp/obj/.store/.stage/cnqsdkhh.ztp",
+      "outputPath": "/Users/harshaljaiswal/Projects/jokeApp/jokeApp/obj/.store/.stage/cnqsdkhh.ztp/",
       "projectStyle": "DotnetToolReference",
       "configFilePaths": [
         "/Users/harshaljaiswal/.nuget/NuGet/NuGet.Config"

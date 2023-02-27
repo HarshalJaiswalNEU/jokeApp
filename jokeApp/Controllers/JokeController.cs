@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using jokeApp.Data;
 using jokeApp.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace jokeApp.Controllers
 {
@@ -25,6 +26,12 @@ namespace jokeApp.Controllers
               return _context.Joke != null ? 
                           View(await _context.Joke.ToListAsync()) :
                           Problem("Entity set 'ApplicationDbContext.Joke'  is null.");
+        }
+
+        // GET: Joke/ShowSearchForm
+        public async Task<IActionResult> ShowSearchForm()
+        {
+            return View() ;
         }
 
         // GET: Joke/Details/5
@@ -46,6 +53,7 @@ namespace jokeApp.Controllers
         }
 
         // GET: Joke/Create
+        [Authorize]
         public IActionResult Create()
         {
             return View();
